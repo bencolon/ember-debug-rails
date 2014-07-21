@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Add this line to your JS manifest file:
 
-    //= require ember-debug-rails
+    //= require ember-debug
 
 ## Version
 
